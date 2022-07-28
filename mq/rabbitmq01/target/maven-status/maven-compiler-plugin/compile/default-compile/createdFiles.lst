@@ -1,0 +1,3 @@
+com/lumang/mq/producer/MyProducer.class
+com/lumang/mq/consumer/MyConsumer.class
+com/lumang/mq/consumer/MyConsumer$1.class
